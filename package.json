@@ -1,17 +1,17 @@
 {
-  "name": "vite-react-template",
-  "version": "0.0.1",
-  "main": "index.js",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build"
-  },
-  "dependencies": {
-    "@pika/react": "^16.13.1",
-    "@pika/react-dom": "^16.13.1"
-  },
-  "devDependencies": {
-    "vite": "^1.0.0-rc.1",
-    "vite-plugin-react": "^3.0.2"
-  }
+	"name": "vite-react-project",
+	"version": "0.0.1",
+	"main": "index.js",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build"
+	},
+	"dependencies": {
+		"@pika/react": "^16.13.1",
+		"@pika/react-dom": "^16.13.1"
+	},
+	"devDependencies": {
+		"vite": "^1.0.0-rc.1",
+		"vite-plugin-react": "^3.0.2"
+	}
 }
