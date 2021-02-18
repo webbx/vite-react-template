@@ -1,36 +1,17 @@
 {
-	"name": "vite-react-project",
-	"version": "0.0.1",
-	"main": "index.js",
-	"description": "{{ description }}",
-	"scripts": {
-		"dev": "vite",
-		"build": "vite build"
-	},
-	"dependencies": {
-		"@pika/react": "^16.13.1",
-		"@pika/react-dom": "^16.13.1",
-		"antd": "^4.9.4"
-	},
-	"devDependencies": {
-		"vite": "^1.0.0-rc.1",
-		"vite-plugin-react": "^3.0.2",
-		"autoprefixer": "^10.1.0",
-		"less": "^4.0.0",
-		"less-loader": "^7.2.0",
-		"postcss": "^8.2.1",
-		"babel-eslint": "^10.1.0",
-		"eslint": "^6.7.2",
-		"eslint-plugin-prettier": "^3.1.3",
-		"eslint-plugin-react": "^7.21.5",
-		"prettier": "^1.19.1"
-	},
-	"keywords": [
-		"vite",
-		"react",
-		"project",
-		"template"
-	],
-	"author": "{{ author }}",
-	"license": "ISC"
+  "name": "my-vue-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-refresh": "^1.1.0",
+    "vite": "^2.0.0"
+  }
 }
